@@ -47,7 +47,7 @@ img:hover {
 @media (min-width: 950px) {
     .box {
         background-color: burlywood;
-        color: orange;
+        color: #000;
     }
 }
 
